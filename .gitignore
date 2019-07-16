@@ -1,0 +1,10 @@
+# Ignore saved models
+*.pth
+
+# Ingore train, test sets
+train
+test
+
+# Others
+
+__pycache__
