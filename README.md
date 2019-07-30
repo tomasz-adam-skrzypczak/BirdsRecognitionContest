@@ -1,6 +1,6 @@
 # UJ SN2019 Second Kaggle Competitions
 
-It's my solution for Kaggle Competition - https://www.kaggle.com/c/ujnn2019-2/. Data can be obtain 
+It's my solution for Kaggle Competition - https://www.kaggle.com/c/ujnn2019-2/.
 
 ## Data Preprocessing and data augmentation
 - Raw 10 seconds recording was dividing into 1-second intervals
